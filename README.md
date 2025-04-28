@@ -1,7 +1,3 @@
-**Supervision d'un routeur ou d'un switch via SNMP avec Zabbix**
-
----
-
 # 1. Activer SNMP sur le routeur ou switch
 
 Connectez-vous à votre équipement (Cisco, HP, etc.) en console ou SSH.
